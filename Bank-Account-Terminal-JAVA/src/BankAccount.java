@@ -21,7 +21,5 @@ public class BankAccount {
         System.out.println("Ola " + nome + " brigado por criar uma conta em nosso banco, sua agência é " + agencia + " ,conta " + numero + " e seu saldo de " + saldo + " reais já está disponível para saque." );
 
 
-
-
     }
 }
